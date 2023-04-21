@@ -17,7 +17,7 @@ function App() {
     equipo: "Front End",
     foto: "/img/ramiro.jpg",
     nombre: "Ramiro Alfaro",
-    puesto: "Desarrolladora de software",
+    puesto: "Desarrollador de software",
     fav:true
   },
   {
