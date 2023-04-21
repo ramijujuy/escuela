@@ -1,0 +1,23 @@
+.but{
+    width: 167px;
+    height: 80px;
+    
+    background: #6278F7;
+    mix-blend-mode: normal;
+    border-radius: 10px;
+    font-weight: 700;
+    padding: 24px 32px;
+    border: none;
+    color: #ffffff;
+    margin: 32px 0;
+    cursor:pointer;
+    font-family: 'Montserrat';
+
+    ;
+  
+}
+
+.but:hover{
+    color: #95ffd4;
+    
+}
