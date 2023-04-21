@@ -23,9 +23,9 @@ function App() {
   {
     id: uuid(),
     equipo: "Programación",
-    foto: "https://github.com/genesysaluralatam.png",
-    nombre: "Genesys Rondón",
-    puesto: "Desarrolladora de software e instructora",
+    foto: "/img/mayra.jpg",
+    nombre: "Mayra Luque",
+    puesto: "It Analista",
     fav:false
   },
   {
