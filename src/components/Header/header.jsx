@@ -8,7 +8,7 @@ export const Header = () => {
   <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
     <div className="container-fluid justify-content-center"> 
       <Link to='/'>
-        <img src="img/logo1.jpg" width='140' height='140'alt='logo'/>
+        <img src="img/logo1.jpg" width='150' height='150'alt='logo'/>
       </Link>
       <div className="mx-auto">
         <h1 className="fuente"> ................Wika</h1>
