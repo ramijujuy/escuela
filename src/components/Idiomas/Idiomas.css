@@ -10,7 +10,7 @@
   
   .card {
     position: relative;
-    width: 35%;
+    width: 30%;
     perspective: 1000px;
     transition: all 0.3s ease-in-out;
     padding: 30px;
