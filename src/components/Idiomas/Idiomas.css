@@ -2,15 +2,15 @@
    display: flex;
    justify-content: space-between; 
    justify-content: center; 
-   padding: 30px;
-   margin: 10px;
+   padding: 190px;
+   margin: 20px;
   
   background-color: rgb(4, 105, 105);
   }
   
   .card {
     position: relative;
-    width: 30%;
+    width: 35%;
     perspective: 1000px;
     transition: all 0.3s ease-in-out;
     padding: 30px;
