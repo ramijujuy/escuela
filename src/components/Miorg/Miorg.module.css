@@ -3,10 +3,11 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: #2e96d2;
 }
 
 .h33 {
-    color: #6278f7;
+    color: #010208;
     font-size: 40px;
     font-weight: 400;
     padding-bottom: 24px;

@@ -1,0 +1,17 @@
+.landing-logo {
+    display: block;
+    margin: 0 auto;
+    width: 800px; /* Ajusta el ancho según el tamaño de tu logo */
+    transform-origin: center;
+  /*   animation: rotate 20s linear infinite; */
+  }
+  
+  @keyframes rotate {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+  

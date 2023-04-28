@@ -1,0 +1,65 @@
+.card-container {
+   display: flex;
+   justify-content: space-between; 
+   justify-content: center; 
+   padding: 30px;
+   margin: 10px;
+  
+  background-color: rgb(4, 105, 105);
+  }
+  
+  .card {
+    position: relative;
+    width: 35%;
+    perspective: 1000px;
+    transition: all 0.3s ease-in-out;
+    padding: 30px;
+  }
+  
+
+
+  
+  .card .card-img-overlay {
+  /*   background-color: rgb(164, 168, 168); */
+    position: absolute; 
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .card:hover .card-img-overlay {
+    opacity: 0.5;
+    background-color: rgba(200, 193, 193, 0.973);
+  }
+  
+  .card .card-img-overlay h5 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .card .card-img-overlay p {
+    font-size: 1.2rem;
+    text-align: end;
+  
+  } 
+  .card-text {
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+   
+  }
+
+  .card-text h1{
+    color: black;
+  }
+  
+  .card:hover .card-text {
+    opacity: 1;
+  }
+  
