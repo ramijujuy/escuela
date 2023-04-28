@@ -61,7 +61,7 @@ function App() {
         <Route path='/home' element={ <Idiomas />}/>
         <Route path='/somos' element={ <Somos />} />
         <Route path='/contacto' element={<Formulario equipos={equipos} enviarmensaje={enviarmensaje}/>} />
-        <Route path='/portugues' element={<Detalle title="Prubea" videoUrl="https://www.youtube.com/embed/DoF7M7Ku7tE" description="desacripcion"/>}/>
+        <Route path='/portugues' element={<Detalle title="Prueba de idioma detalle" videoUrl="https://www.youtube.com/embed/DoF7M7Ku7tE" description="desacripcion"/>}/>
       </Routes>
     
      <Footer />

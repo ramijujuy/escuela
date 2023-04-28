@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 
 
 function Detalle({ title, videoUrl, description }) {
-    console.log("llego al detalle")
+  
     return (
         <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
           <h2>{title}</h2>
