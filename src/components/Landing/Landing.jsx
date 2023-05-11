@@ -8,7 +8,7 @@ const Landing = () => {
       <div className="landing-overlay"></div>
       <div className="landing-content">
         <Link to="/home" className="landing-logo">
-          <img src="img/logo1.jpg" alt="Logo" height={"1000"} />
+          <img src="img/logo1.jpg" alt="Logo" height={"800"} />
         </Link>
         <Link to="/home" className="landing-btn">Ir a la página de inicio</Link>
       </div>

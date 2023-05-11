@@ -35,7 +35,7 @@ function Idiomas() {
 
                 <Card.Text className="card-text">
                    
-                       <Link to="/portugues"> <h1>Si queres saber mas hace click</h1></Link>
+                       <Link to="/portugues"> <h2>Si queres saber mas hace click</h2></Link>
                      </Card.Text>
                 
                 </Card.ImgOverlay>
